@@ -45,4 +45,5 @@
 - titanic_test.csv:用于测试的数据集
 - Titanic_survived.ipynb:数据分析、可视化
 - Titanic_survived.html:完整可视化报告
+
 <a href="https://rin10101010.github.io/Titanic_Survived_Forecast/Titanic_survived.html">点击可查看完整可视化报告</a>
